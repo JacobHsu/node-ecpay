@@ -60,6 +60,17 @@ npm start
   </tbody>
 </table>
 
+## 測試
+
+[金流文件](https://developers.ecpay.com.tw/?p=2856) 帳號密碼 >系統開發管理 >系統介接設定 
+
+.env
+```
+HASHKEY=5294y06JbISpM5x9
+HASHIV=v77hoKGq4kWxNNIS
+HOST=http://node-ecpay.zeabur.app # 需要為雲端伺服器
+```
+
 ## 參考
 
 - 綠界金流開發文件：https://developers.ecpay.com.tw/?p=2864
